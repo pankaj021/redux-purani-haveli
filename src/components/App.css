@@ -1,0 +1,93 @@
+.page-center{
+    margin: auto;
+    background: white;
+    box-shadow : 0 1px 0 rgba(0,0,0,.25);  
+    padding-bottom: 100px;        
+}
+
+.Header{
+    color: white;
+    background: #202d5f;
+    padding: 1px 15%;
+    font-family: fantasy;
+    font-style: oblique;
+}
+
+h1{
+    margin: 0;
+}
+
+.text-center{
+    text-align: left;
+}
+
+.FlatDetails{
+    display: -webkit-box;
+}
+
+.width-70{
+    width: 70%;
+}
+
+.width-30{
+    width: 30%;
+    margin-top: 10px;
+}
+
+.RoomMate{
+    margin: 20px 0px;
+    box-shadow: 0 1px 0 rgba(0,0,0,.25);
+    padding: 10px 30px;
+}
+
+.DeleteIcon{
+    float: right;
+}
+
+.toggleBtn{
+    background: #202d5f;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.brownBg{
+    background: brown !important;
+}
+
+.headingFlatD{
+    margin : 2px 0px;  
+    vertical-align: top;
+    width: 30%;
+    display: inline-block;
+    color : #6947a0;
+}
+
+.descFlatD{
+    margin : 2px 0px; 
+    vertical-align: top;
+    width: 70%;
+    display: inline-block; 
+    color: #777 
+}
+
+.bigger-font{
+    color: #3a3a3a;
+    font-size: x-large;
+}
+
+.padding-top-10{
+    padding-top : 5px
+}
+
+.col-green{
+    color : #2ea664;
+    font-style: italic;
+}
+
+.col-brown{
+    color: #FE9143;
+    font-style: italic;
+}
